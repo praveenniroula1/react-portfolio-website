@@ -1,38 +1,58 @@
-.App {
+body {
+  font-family: "Irish Grover", cursive;
+  font-size: 1.3rem;
+}
+.nav-font {
+  font-style: oblique;
+}
+/* hero */
+.hero {
+  min-height: 70vh;
+  background: url();
+}
+.img {
+  border-radius: 50%;
+}
+
+.title {
   text-align: center;
+  font-size: 3rem;
+  font-weight: bolder;
+  margin-bottom: 3rem;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.title span {
+  padding: 0.1rem 1rem;
+  border-bottom: 0.5rem solid rgb(230, 183, 13);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.icons i {
+  font-size: 5rem;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.icons > div {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 1rem;
 }
-
-.App-link {
-  color: #61dafb;
+.projects {
+  background: lightgreen;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.projects .row {
+  --bs-gutter-x: 0;
+}
+.about {
+  background: lightblue;
+  border-radius: 31px;
+}
+.imggg {
+  border-radius: 50%;
+  height: 20vh;
+}
+.nav-item {
+  list-style-type: none;
+  color: black;
+}
+.write {
+  min-height: 40vh;
+}
+.skills {
+  min-height: 50vh;
 }
