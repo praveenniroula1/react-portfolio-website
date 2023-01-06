@@ -23,7 +23,12 @@ export const About = () => {
             debitis corporis autem illum ducimus impedit voluptate quidem
             delectus eligendi! Lorem ipsum dolor sit amet, consectetur
             adipisicing elit. Beatae laudantium nobis corporis pariatur
-            perferendis! Optio quisquam quis suscipit iure deserunt?
+            perferendis! Optio quisquam quis suscipit iure deserunt? Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Ab esse debitis
+            corporis autem illum ducimus impedit voluptate quidem delectus
+            eligendi! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Beatae laudantium nobis corporis pariatur perferendis! Optio
+            quisquam quis suscipit iure deserunt?
           </div>
         </div>
       </div>
