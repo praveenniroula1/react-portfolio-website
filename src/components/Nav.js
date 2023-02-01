@@ -32,7 +32,7 @@ export const Nav = () => {
                 aria-current="page"
                 to="/"
               >
-                Home
+                Homee
               </Link>
             </li>
             <li className="nav-item">
